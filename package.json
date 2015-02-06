@@ -1,6 +1,6 @@
 {
   "name": "simple-jobs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "create/cancel repeat jobs",
   "main": "index.js",
   "scripts": {
